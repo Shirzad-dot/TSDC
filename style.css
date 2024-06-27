@@ -1,0 +1,77 @@
+.h1 {
+    text-align: center;
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+p {
+    font-size:1.3rem;
+}
+
+.Pusher {
+    margin-top: 130px;
+}
+
+footer {
+    text-align: center;
+    position: relative;
+    margin-top: 60px;
+    font-size: 1.4rem;
+    background-color: #3D52A0;
+    height: 50px;
+    width: 100%;
+    font-weight:bolder;
+}
+
+html {
+    background-color: #7091E6;
+}
+
+hr {
+    border:3px dotted black;
+}
+
+footer > a {
+    color: black;
+}
+
+.Car {
+    position: relative;
+    left: 425px;
+}
+
+.taxi {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.taxi {
+    color: black;
+    font-size: 2rem;
+    margin: 0px 0px 0px 550px;
+    position: relative;
+    bottom: 60px;
+
+}
+
+.cloud {
+    position: absolute;
+    top: 200px;
+    left: 500px;
+}
+
+.cloud2 {
+    position: absolute;
+    top: 600px;
+    left: 800px;
+}
+
+.cloud3 {
+    position: absolute;
+    top: 500px;
+}
